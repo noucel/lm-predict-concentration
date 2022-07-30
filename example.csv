@@ -1,0 +1,16 @@
+Sample,Fluorescence,Concentration
+Blank,218,0.0
+Standard-1,802,0.1
+Standard-2,6195,1.0
+Standard-3,51295,10.0
+Neat,233933,100.0
+Blank’,197,0.0
+Standard-1’,800,0.1
+Standard-2’,6131,1.0
+Standard-3’,55121,10.0
+Neat’,197134,100.0
+Unknown sample-1,69330,NA
+Unknown sample-2,53134,NA
+Unknown sample-3,40467,NA
+Unknown sample-4,39770,NA
+Unknown sample-5,64627,NA
